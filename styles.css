@@ -1,6 +1,6 @@
 html {}
 
-bod {
+body {
     background: #1D1D1D;
     background-image: linear-gradient(130deg, #FE9192 25%, #63CEB6 100%) !important;
 }
